@@ -33,7 +33,7 @@ export default function Header({ color }) {
         />
       </Heading>
 
-      <Container maxW={"90%"} id="hero">
+      <Container maxW={"90%"} maxH={"90%"} id="hero">
         <Stack
           as={Box}
           textAlign={"center"}
@@ -90,7 +90,7 @@ export default function Header({ color }) {
                 </Stack>
             </GridItem>
             <GridItem align={"center"} w={"105%"}>
-             <Image boxSize={400} src='../assets/marion2.png' /> 
+             <Image maxW={"90%"} maxH={"90%"} src='../assets/marion2.png' /> 
             </GridItem>
           </SimpleGrid>
         </Stack>
