@@ -45,7 +45,7 @@ export default function Projects({ color }) {
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>
-                03
+                02
               </Text>
               <Text fontWeight={800}>Projects</Text>
             </HStack>
@@ -73,7 +73,13 @@ export default function Projects({ color }) {
                         {project.buttons.map((button) => (
                           <a key={button.text} href={button.href}>
                             <Button color={`${color}.400`}>
+                            <Link isExternal
+                              key={button.text}
+                              href={button.href}
+                              color={`${color}.400`}
+                            >
                               {button.text}
+                            </Link>
                             </Button>
                           </a>
                         ))}
@@ -115,7 +121,7 @@ export default function Projects({ color }) {
               ))}
             </ButtonGroup>
           </Center>
-          <SimpleGrid columns={[1, 2, 3]} px={4} spacing={4}>
+          <SimpleGrid columns={[1, 2]} px={4} spacing={4}>
             {others
               .filter((other) => {
                 if (selected === "All") {
@@ -126,7 +132,8 @@ export default function Projects({ color }) {
               })
               .map((other) => (
                 <Fade bottom>
-                  <Card key={other.name}>
+                  <Card key={other.name}
+                  direction={{ base: 'column', sm: 'row' }}>
                     <Stack>
                       <CardBody align="left" h={[null, "40vh"]}>
                         <Heading size="sm">{other.name}</Heading>
@@ -137,7 +144,7 @@ export default function Projects({ color }) {
 
                         <HStack spacing={2}>
                           {other.buttons.map((button) => (
-                            <Link
+                            <Link isExternal
                               key={button.text}
                               href={button.href}
                               color={`${color}.400`}
