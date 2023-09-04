@@ -1,26 +1,37 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## Applying NFL Statistical Models to CMU Football
+Sports Analytics Capstone Project: Our group analyzed & web-scraped DIII football data to model gameplay for the CMU football team. We evaluated defense and offense performance using both a play efficiency and expected points model and created a model for predicting the next scoring event.
+- ![600x200](../assets/cmu-football.png)
+- Tags: Research
 - Badges:
-  - Badge [blue]
+  - Research [purple]
+  - R [cyan]
+  - Predictive Modeling [cyan]
+  - Web Scraping [cyan]
 - Buttons:
-  - Link [https://example.com]
+  - GitHub [https://github.com/marionhaney/36-493-football]
+  - View Poster [../assets/football-capstone-poster.pdf]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## Sorting Hat Booth Game
+Kappa Alpha Theta 2023 Booth, CMU Spring Carnival: I lead a team to design & develop a game inspired by the Sorting Hat from Harry Potter! The game is a CMU-themed personality test that sorts you into your Harry Potter house. We made a model of the movie Sorting Hat that talks and "thinks" while you take the test.
+- ![600x200](../assets/hat-use1.gif)
+- Tags: All
 - Badges:
-  - Badge [blue]
+  - Management [orange]
+  - For Fun [pink]
+  - JavaScript [cyan]
+  - Arduino [cyan]
 - Buttons:
-  - Link [https://example.com]
+  - GitHub [https://github.com/marionhaney/sorting-hat]
+  - Design Sketch [../assets/original-plans-hat.pdf]
+  - Gif [../assets/hat-use2.gif]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+## MindfulNest
+MindfulNest is a tool for preK classrooms that teaches children emotion regulation techniques using both a tablet app and physical interactive devices. During the 2022-2023 school year, the tool underwent a clinical trial in the Pittsburgh area. I have been cleaning and analyzing data from this trial to assess MindfulNest's effectiveness.
+- ![600x200](../assets/mn-app-use.png)
+- Tags: Research
 - Badges:
-  - Badge [blue]
+  - Research [purple]
+  - R [cyan]
+  - SQL [cyan]
 - Buttons:
-  - Link [https://example.com]
+  - Project Website [https://mindfulnest.createlab.org]
