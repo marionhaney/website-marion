@@ -23,7 +23,6 @@ Kappa Alpha Theta 2023 Booth, CMU Spring Carnival: I lead a team to design & dev
 - Buttons:
   - GitHub [https://github.com/marionhaney/sorting-hat]
   - Design Sketch [../assets/original-plans-hat.pdf]
-  - Gif [../assets/hat-use2.gif]
 
 ## MindfulNest
 MindfulNest is a tool for preK classrooms that teaches children emotion regulation techniques using both a tablet app and physical interactive devices. During the 2022-2023 school year, the tool underwent a clinical trial in the Pittsburgh area. I have been cleaning and analyzing data from this trial to assess MindfulNest's effectiveness.
