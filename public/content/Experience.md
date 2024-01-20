@@ -8,10 +8,11 @@
   - R [cyan]
   - SQL [cyan]
 - List Items:
-  - I'm a researcher on the MindfulNest project: a tool for preschool classrooms aimed at teaching children emotion regulation skills.
+  - I am a researcher on the MindfulNest project: a tool for preschool classrooms aimed at teaching children emotion regulation skills.
   - The tool combines a tablet app with several robotic tangible items: the flower, sheep, and magic wand. Children can use MindfulNest on their own to learn about emotions and how to self-regulate when they are feeling a LOT of one emotion!
   - I have been collecting and analyzing data from our 2022-2023 Emotion Regulation study, where we piloted MindfulNest in 10 classrooms in the Pittsburgh area, reaching over 100 students!
-  - We regularly present our findings in collaboration with Trying Together and PNC Grow Up Great.
+  - Currently, we are expanding MindfulNest's reach and continuously improving the tool.
+  - Through my work with MindfulNest, I have developed an interest in early childhood education and promoting emotional well-being.
 
 ## Gopuff
 - *Product Management Intern* | May'22 - Aug'22
@@ -21,7 +22,7 @@
   - Internship [blue]
   - Management [orange]
 - List Items:
-  - For Gopuff's summer internship, I worked on the Partner Integrations team. We focused on the Gopuff x UberEats integration and introduced software development and business plans for the Gopuff x Grubhub integration.
+  - During Gopuff's summer internship, I worked on the Partner Integrations team. We focused on the Gopuff x UberEats integration and introduced software development and business plans for the Gopuff x Grubhub integration.
   - I managed and guided a team of engineers daily through Agile workflow.
   - I really enjoyed the fast-paced start-up environment: it was exciting to not only see my work be integral to the team but also witness the rapid deployment of ideas.
 
@@ -34,7 +35,7 @@
   - Part Time [green]
   - Tableau [cyan]
 - List Items:
-  - For Highmark Health's summer internship, I worked on the Service Portfolio Analytics & Request (SPAR) Team. The SPAR team leverages and manages the IT softwares and services for the company. This internship was remote due to the COVID-19 pandemic.
+  - During Highmark Health's summer internship, I worked on the Service Portfolio Analytics & Request (SPAR) Team. The SPAR team leverages and manages the IT softwares and services for the company. This internship was remote due to the COVID-19 pandemic.
   - I created and managed IT catalogs and financial reports via Tableau dashboards as well as an interactive website for internal company use.
 
 ## Language Production & Executive Control Lab
@@ -50,5 +51,5 @@
 - List Items:
   - In my first academic research experience, I worked with Bonnie Nozari in investigating the typing errors we make and how those mistakes may be influenced by the presence of visual feedback (think of when you type your password and those dots appear).
   - I coded and conducted 3 online experiments for use with the Amazon Mechanical Turk and AWS platforms.
-  - This experience was during the COVID-19 pandemic, so it was imported for the online experiments to be self-sufficient and understandable for participants.
+  - This experience was during the COVID-19 pandemic, so it was important for the online experiments to be self-sufficient and understandable for participants.
   - We also worked on a decision-based algorithmic method for classifying typing errors. By doing so, we can streamline data collection about typing and typing errors.
