@@ -1,1 +1,1 @@
-Other
+Art
