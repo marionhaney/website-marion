@@ -19,7 +19,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2023 Marion Haney</Text>
+        <Text>© 2024 Marion Haney</Text>
         <Text>Created from 
         <Link  color='teal.500' href='https://github.com/eldoraboo/portable-portfolio' isExternal> template. </Link>
         </Text>
