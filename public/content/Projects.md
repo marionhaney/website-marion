@@ -1,5 +1,5 @@
 ## No Edge No Chance
-2024 NFL Big Data Bowl submission: Collaborating with CMU Football Head Coach Ryan Larsen and Defensive Coordinator Ben Gibboney, we proposed a quantitative definition and evaluation metric for the defensive concept of "setting the edge". We made an R Shiny app that gives coaches a team view of edge-setting directional performance.
+2024 NFL Bid Data Bowl Finalist: Collaborating with CMU Football Head Coach Ryan Larsen and Defensive Coordinator Ben Gibboney, we proposed a quantitative definition and evaluation metric for the defensive concept of "setting the edge". We made an R Shiny app that gives coaches a team view of edge-setting directional performance.
 - ![600x200](../assets/edge-setting-shiny.png)
 - Tags: Sports Analytics
 - Badges:
@@ -11,7 +11,7 @@
   - Shiny App [https://dkz51f-marion-haney.shinyapps.io/edge-setting-epa/]
 
 ## tAIylor's version
-Text Analysis Project: We used modern language analysis methods to compare Taylor Swift lyrics from albums included in her Taylor Swift: The Eras Tour. We fine-tuned a large language model to classify which album Taylor Swift lyrics come from. Next, we created tAIylor's version, a fine-tuned GPT-2 model that generates song lyrics in Taylor Swift's style of writing! In doing so, we investigate the questions: Can AI be creative? Will AI be able to replace songwriters?
+Text Analysis Project: We used modern language analysis methods to compare Taylor Swift lyrics from albums included in her Taylor Swift: The Eras Tour. We fine-tuned a large language model to classify which album Taylor Swift lyrics come from. Next, we created tAIylor's version, a fine-tuned GPT-2 model that generates song lyrics in a style of writing similar to Taylor Swift! In doing so, we investigate the questions: Can AI be creative? Can AI write song lyrics?
 - ![600x200](../assets/tAIylors-version.png)
 - Tags: Research
 - Badges:
