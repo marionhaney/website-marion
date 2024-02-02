@@ -1,5 +1,5 @@
 ## No Edge No Chance
-2024 NFL Bid Data Bowl Finalist: Collaborating with CMU Football Head Coach Ryan Larsen and Defensive Coordinator Ben Gibboney, we proposed a quantitative definition and evaluation metric for the defensive concept of "setting the edge". We made an R Shiny app that gives coaches a team view of edge-setting directional performance.
+2024 NFL Big Data Bowl Finalist: Collaborating with CMU Football Head Coach Ryan Larsen and Defensive Coordinator Ben Gibboney, we proposed a quantitative definition and evaluation metric for the defensive concept of "setting the edge". We made an R Shiny app that gives coaches a team view of edge-setting directional performance.
 - ![600x200](../assets/edge-setting-shiny.png)
 - Tags: Sports Analytics
 - Badges:
