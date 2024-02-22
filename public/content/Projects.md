@@ -1,3 +1,13 @@
+## MindfulNest
+MindfulNest is a tool for preschool classrooms that teaches children emotion regulation techniques using both a tablet app and interactive robotic devices. I am currently a researcher working on assessing effectiveness of the prototype product. My favorite part of the project so far has been collecting field data at local Pittsburgh preschools!
+- ![600x200](../assets/mn-app-use.png)
+- Tags: Research
+- Badges:
+  - R [cyan]
+  - SQL [cyan]
+- Buttons:
+  - Project Website [https://mindfulnest.createlab.org]
+
 ## No Edge No Chance
 2024 NFL Big Data Bowl Finalist: Collaborating with CMU Football Head Coach Ryan Larsen and Defensive Coordinator Ben Gibboney, we proposed a quantitative definition and evaluation metric for the defensive concept of "setting the edge". We made an R Shiny app that gives coaches a team view of edge-setting directional performance.
 - ![600x200](../assets/edge-setting-shiny.png)
@@ -45,13 +55,3 @@ Kappa Alpha Theta 2023 Booth, CMU Spring Carnival: I lead a team to design & dev
 - Buttons:
   - GitHub [https://github.com/marionhaney/sorting-hat]
   - Design Sketch [../assets/original-plans-hat.pdf]
-
-## MindfulNest
-MindfulNest is a tool for preschool classrooms that teaches children emotion regulation techniques using both a tablet app and interactive robotic devices.
-- ![600x200](../assets/mn-app-use.png)
-- Tags: Sports Analytics
-- Badges:
-  - R [cyan]
-  - SQL [cyan]
-- Buttons:
-  - Project Website [https://mindfulnest.createlab.org]

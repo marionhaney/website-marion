@@ -52,4 +52,5 @@
   - In my first academic research experience, I worked with Bonnie Nozari in investigating the typing errors we make and how those mistakes may be influenced by the presence of visual feedback (think of when you type your password and those dots appear).
   - I coded and conducted 3 online experiments for use with the Amazon Mechanical Turk and AWS platforms.
   - This experience was during the COVID-19 pandemic, so it was important for the online experiments to be self-sufficient and understandable for participants.
-  - We also worked on a decision-based algorithmic method for classifying typing errors. By doing so, we can streamline data collection about typing and typing errors.
+  - We learned that typing studies worked well in the online experiment format-- it became an easy way to gather large amounts of data quickly.
+  - So, I wrote coding templates and instructional documents for deploying future online experiments.
