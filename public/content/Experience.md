@@ -5,6 +5,7 @@
 - Badges:
   - Part Time [green]
   - Research [purple]
+  - Product Development [pink]
   - R [cyan]
   - SQL [cyan]
 - List Items:
@@ -21,10 +22,12 @@
 - Badges:
   - Internship [blue]
   - Management [orange]
+  - Product Development [pink]
 - List Items:
-  - During Gopuff's summer internship, I worked on the Partner Integrations team. We focused on the Gopuff x UberEats integration and introduced software development and business plans for the Gopuff x Grubhub integration.
+  - During Gopuff's summer internship, I worked on the Partner Integrations team. We focused on the Gopuff x UberEats integration, Gopuff x Grubhub integration, and Shopify platform integration (Powered By Gopuff).
+  - I created user stories and usability workflows, product requirements documents, and investigated emerging markets through market research. 
   - I managed and guided a team of engineers daily through Agile workflow.
-  - I really enjoyed the fast-paced start-up environment: it was exciting to not only see my work be integral to the team but also witness the rapid deployment of ideas.
+  - I really enjoyed the fast-paced start-up environment: it was exciting to not only see my work be integral to the team but also experience the rapid deployment of ideas.
 
 ## Highmark Health
 - *IT Systems Analyst, Data Analytics Intern* | May'21 - Oct'21
@@ -53,4 +56,4 @@
   - I coded and conducted 3 online experiments for use with the Amazon Mechanical Turk and AWS platforms.
   - This experience was during the COVID-19 pandemic, so it was important for the online experiments to be self-sufficient and understandable for participants.
   - We learned that typing studies worked well in the online experiment format-- it became an easy way to gather large amounts of data quickly.
-  - So, I wrote coding templates and instructional documents for deploying future online experiments.
+  - I wrote coding templates and instructional documents for deploying future online experiments using Amazon Mechanical Turk and AWS platforms.
