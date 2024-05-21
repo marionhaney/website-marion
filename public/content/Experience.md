@@ -1,5 +1,16 @@
+## JPMorgan Chase & Co.
+- *Applied AI ML Associate* | May'24 - Present
+- ![logo512](../assets/jpm-logo.png)
+- Tags: Data Science
+- Badges:
+  - Full Time [green]
+  - Machine Learning [pink]
+  - Python [cyan]
+  - SQL [cyan]
+- List Items:
+
 ## CREATE Lab
-- *Research Assistant* | Aug'22 - Present
+- *Research Assistant* | Aug'22 - May'24
 - ![logo512](../assets/create-lab-logo.png)
 - Tags: Data Science
 - Badges:
@@ -9,11 +20,10 @@
   - R [cyan]
   - SQL [cyan]
 - List Items:
-  - I am a researcher on the MindfulNest project: a tool for preschool classrooms aimed at teaching children emotion regulation skills.
+  - I was a researcher on the MindfulNest project: a tool for preschool classrooms aimed at teaching children emotion regulation skills.
   - The tool combines a tablet app with several robotic tangible items: the flower, sheep, and magic wand. Children can use MindfulNest on their own to learn about emotions and how to self-regulate when they are feeling a LOT of one emotion!
-  - I have been collecting and analyzing data from our 2022-2023 Emotion Regulation study, where we piloted MindfulNest in 10 classrooms in the Pittsburgh area, reaching over 100 students!
-  - Currently, we are expanding MindfulNest's reach and continuously improving the tool.
-  - Through my work with MindfulNest, I have developed an interest in early childhood education and promoting emotional well-being.
+  - I collected and analyzed data from our 2022-2023 Emotion Regulation study, where we piloted MindfulNest in 10 classrooms in the Pittsburgh area, reaching over 100 students!
+  - Through my work with MindfulNest, I developed an interest in early childhood education and promoting emotional well-being.
 
 ## Gopuff
 - *Product Management Intern* | May'22 - Aug'22

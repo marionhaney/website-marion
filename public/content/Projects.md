@@ -1,5 +1,5 @@
 ## MindfulNest
-MindfulNest is a tool for preschool classrooms that teaches children emotion regulation techniques using both a tablet app and interactive robotic devices. I am currently a researcher working on assessing effectiveness of the prototype product. My favorite part of the project so far has been collecting field data at local Pittsburgh preschools!
+MindfulNest is a tool for preschool classrooms that teaches children emotion regulation techniques using both a tablet app and interactive robotic devices. I am worked as a researcher and assessed the prototype product. My favorite part of the project was collecting field data at local Pittsburgh preschools!
 - ![600x200](../assets/mn-app-use.png)
 - Tags: Research
 - Badges:
@@ -43,15 +43,3 @@ Sports Analytics Capstone Project: Our group analyzed & web-scraped DIII footbal
 - Buttons:
   - GitHub [https://github.com/marionhaney/36-493-football]
   - View Poster [../assets/football-capstone-poster.pdf]
-
-## Sorting Hat Booth Game
-Kappa Alpha Theta 2023 Booth, CMU Spring Carnival: I lead a team to design & develop a game inspired by the Sorting Hat from Harry Potter! The game is a CMU-themed personality test that sorts you into your Harry Potter house. We made a robotic model of the movie Sorting Hat that talks to you and actively "thinks" while you take the personality test.
-- ![600x200](../assets/hat-use1.gif)
-- Tags: Robotics, Web Apps
-- Badges:
-  - Project Management [cyan]
-  - JavaScript [cyan]
-  - Arduino [cyan]
-- Buttons:
-  - GitHub [https://github.com/marionhaney/sorting-hat]
-  - Design Sketch [../assets/original-plans-hat.pdf]
