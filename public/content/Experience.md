@@ -6,7 +6,6 @@
   - Full Time [green]
   - Machine Learning [pink]
   - Python [cyan]
-  - SQL [cyan]
 - List Items:
 
 ## CREATE Lab
@@ -18,12 +17,10 @@
   - Research [purple]
   - Product Development [pink]
   - R [cyan]
-  - SQL [cyan]
 - List Items:
-  - I was a researcher on the MindfulNest project: a tool for preschool classrooms aimed at teaching children emotion regulation skills.
+  - I worked as a researcher on MindfulNest: a tool for preschool classrooms aimed at teaching children emotion regulation skills.
   - The tool combines a tablet app with several robotic tangible items: the flower, sheep, and magic wand. Children can use MindfulNest on their own to learn about emotions and how to self-regulate when they are feeling a LOT of one emotion!
-  - I collected and analyzed data from our 2022-2023 Emotion Regulation study, where we piloted MindfulNest in 10 classrooms in the Pittsburgh area, reaching over 100 students!
-  - Through my work with MindfulNest, I developed an interest in early childhood education and promoting emotional well-being.
+  - I helped collect and analyzed data from our 2022-2023 Emotion Regulation study, where we piloted MindfulNest in 10 classrooms in the Pittsburgh area, reaching over 100 students!
 
 ## Gopuff
 - *Product Management Intern* | May'22 - Aug'22
@@ -34,9 +31,9 @@
   - Management [orange]
   - Product Development [pink]
 - List Items:
-  - During Gopuff's summer internship, I worked on the Partner Integrations team. We focused on the Gopuff x UberEats integration, Gopuff x Grubhub integration, and Shopify platform integration (Powered By Gopuff).
+  - During Gopuff's summer internship, I worked on the Partner Integrations team. We focused on developing existing and new third-party integrations.
   - I created user stories and usability workflows, product requirements documents, and investigated emerging markets through market research. 
-  - I managed and guided a team of engineers daily through Agile workflow.
+  - I worked with a team of engineers daily through Agile workflow.
   - I really enjoyed the fast-paced start-up environment: it was exciting to not only see my work be integral to the team but also experience the rapid deployment of ideas.
 
 ## Highmark Health

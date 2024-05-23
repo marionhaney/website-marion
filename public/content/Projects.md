@@ -1,5 +1,5 @@
 ## MindfulNest
-MindfulNest is a tool for preschool classrooms that teaches children emotion regulation techniques using both a tablet app and interactive robotic devices. I am worked as a researcher and assessed the prototype product. My favorite part of the project was collecting field data at local Pittsburgh preschools!
+MindfulNest is a tool for preschool classrooms that teaches children emotion regulation techniques using both a tablet app and interactive robotic devices. My favorite part of the project was collecting field data at local Pittsburgh preschools!
 - ![600x200](../assets/mn-app-use.png)
 - Tags: Research
 - Badges:
