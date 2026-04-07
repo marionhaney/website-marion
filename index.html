@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marion Haney - Data Scientist</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#home" class="nav-logo">marion haney</a>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="#home" class="nav-link">home</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">about</a></li>
+                <li class="nav-item"><a href="#projects" class="nav-link">projects</a></li>
+                <li class="nav-item"><a href="#experience" class="nav-link">experience</a></li>
+                <li class="nav-item"><a href="#education" class="nav-link">education</a></li>
+                <li class="nav-item"><a href="#contact" class="nav-link">contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Introduction Section -->
+    <section id="home" class="hero">
+        <div class="hero-background">
+            <div class="gradient-orb orb-1"></div>
+            <div class="gradient-orb orb-2"></div>
+        </div>
+        <div class="hero-wrapper">
+            <div class="hero-content">
+                <h1 class="hero-title">hi, i'm marion!</h1>
+                <div class="typing-container">
+                    <span class="typing-text"></span>
+                    <span class="cursor"></span>
+                </div>
+                <p class="hero-subtitle">Transforming data into actionable insights</p>
+                <div class="cta-buttons">
+                    <a href="#projects" class="btn btn-primary">view my work</a>
+                    <a href="#contact" class="btn btn-secondary">get in touch</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="image-placeholder">
+                    <img src="assets/marion.jpg" alt="Marion Haney" class="profile-image">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about" class="about">
+        <div class="section-container">
+            <h2 class="section-title">about me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>I love unconvering stories with data, clever data representation, and innovative feature engineering. My education and work experience have equipped me with a strong foundation in statistical analysis, machine learning, and data visualization. My interests span multiple domains including natural language processing and text analysis, football analytics, and robotics.</p>
+                    <p>I'm a Pittsburgh native, avid knitter, runner, and pokemon lover!</p>
+                    <div class="skills-grid">
+                        <div class="skill-badge">Python</div>
+                        <div class="skill-badge">SQL</div>
+                        <div class="skill-badge">Machine Learning</div>
+                        <div class="skill-badge">Data Visualization</div>
+                        <div class="skill-badge">Statistics</div>
+                        <div class="skill-badge">Scikit-learn</div>
+                        <div class="skill-badge">Pandas</div>
+                        <div class="skill-badge">Numpy</div>
+                        <div class="skill-badge">NLP</div>
+                        <div class="skill-badge">R</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="section-container">
+            <h2 class="section-title">featured projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="assets/edge-setting-shiny.png" alt="No Edge No Chance" class="project-thumbnail">
+                    </div>
+                    <div class="project-header">
+                        <h3>No Edge No Chance</h3>
+                        <span class="project-tag">ML</span>
+                    </div>
+                    <p>2024 NFL Big Data Bowl Finalist: Collaborating with CMU Football Head Coach Ryan Larsen and Defensive Coordinator Ben Gibboney, we proposed a quantitative definition and evaluation metric for the defensive concept of "setting the edge". We made an R Shiny app that gives coaches a team view of edge-setting directional performance.</p>
+                    <div class="project-tech">
+                        <span class="tech-badge">R</span>
+                        <span class="tech-badge">R Shiny</span>
+                    </div>
+                    <a href="https://tinyurl.com/no-edge-no-chance" class="project-link">Kaggle Notebook →</a>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="assets/mn-app-use.png" alt="MindfulNest" class="project-thumbnail">
+                    </div>
+                    <div class="project-header">
+                        <h3>MindfulNest</h3>
+                        <span class="project-tag">Research</span>
+                    </div>
+                    <p>MindfulNest is a tool for preschool classrooms that teaches children emotion regulation techniques using both a tablet app and interactive robotic devices. My favorite part of the project was collecting field data at local Pittsburgh preschools!</p>
+                    <div class="project-tech">
+                        <span class="tech-badge">R</span>
+                        <span class="tech-badge">SQL</span>
+                        <span class="tech-badge">Data Analysis</span>
+                    </div>
+                    <a href="https://mindfulnest.createlab.org" class="project-link">Project Website→</a>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="assets/tAIylors-version.png" alt="NLP project" class="project-thumbnail">
+                    </div>
+                    <div class="project-header">
+                        <h3>tAIylor's version</h3>
+                        <span class="project-tag">NLP</span>
+                    </div>
+                    <p>Text Analysis Project: We used modern language analysis methods to compare Taylor Swift lyrics from albums included in her Taylor Swift: The Eras Tour. We fine-tuned a large language model to classify which album Taylor Swift lyrics come from. Next, we created tAIylor's version, a fine-tuned GPT-2 model that generates song lyrics in a style of writing similar to Taylor Swift! In doing so, we investigate the questions: Can AI be creative? Can AI write song lyrics?</p>
+                    <div class="project-tech">
+                        <span class="tech-badge">Python</span>
+                        <span class="tech-badge">GenAI</span>
+                        <span class="tech-badge">HuggingFace</span>
+                        <span class="tech-badge">NLP</span>
+                    </div>
+                    <a href="https://github.com/marionhaney/tAIylors-version" class="project-link">GitHub→</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Work Experience Section -->
+    <section id="experience" class="experience">
+        <div class="section-container">
+            <h2 class="section-title">work experience</h2>
+            <div class="experience-scroll-container">
+                <div class="experience-timeline">
+                    <div class="timeline-card">
+                        <div class="experience-image">
+                            <img src="assets/jpm-logo.png" alt="Applied AIML Senior Associate" class="experience-thumbnail">
+                        </div>
+                        <div class="timeline-year">2026</div>
+                        <h3>Applied AIML Senior Associate</h3>
+                        <p class="company">JPMorganChase</p>
+                        <p class="duration">2024 - Present</p>
+                        <p class="description"> Design, train, and deploy machine learning models for Payments operations and efficiency.</p>
+                    </div>
+
+                    <div class="timeline-card">
+                        <div class="experience-image">
+                            <img src="assets/create-lab-logo.png" alt="Research Assistant" class="experience-thumbnail">
+                        </div>
+                        <div class="timeline-year">2024</div>
+                        <h3>Data Analyst</h3>
+                        <p class="company">CREATE Lab</p>
+                        <p class="duration">August 2022 - May 2024</p>
+                        <p class="description"> Researcher on MindfulNest: a tool for preschool classrooms aimed at teaching children emotion regulation skills. Children can use MindfulNest on their own to learn about emotions and how to self-regulate. Helped collect and analyzed data from the 2022-2023 Emotion Regulation study, where MindfulNest piloted in 10 Pittsburgh classrooms, reaching over 100 students!</p>
+                    </div>
+
+                    <div class="timeline-card">
+                        <div class="experience-image">
+                            <img src="assets/gopuff-logo.png" alt="Product Management Intern" class="experience-thumbnail">
+                        </div>
+                        <div class="timeline-year">2022</div>
+                        <h3>Product Management Intern</h3>
+                        <p class="company">Gopuff</p>
+                        <p class="duration">May 2022 - August 2022</p>
+                        <p class="description">Joined the Partner Integrations team and focused developing third-party integrations. Created user stories and usability workflows, product requirements documents, and researched emerging markets. Worked with a team of engineers daily through an Agile workflow.</p>
+                    </div>
+
+                    <div class="timeline-card">
+                        <div class="experience-image">
+                            <img src="assets/highmark-health-logo.png" alt="Data Analytics Internship" class="experience-thumbnail">
+                        </div>
+                        <div class="timeline-year">2021</div>
+                        <h3>IT Systems Analyst, Data Analytics Intern</h3>
+                        <p class="company">Highmark Health</p>
+                        <p class="duration">May 2021 - October 2021</p>
+                        <p class="description">Worked on the Service Portfolio Analytics & Request (SPAR) Team. Leveraged and managed IT softwares and services for the company. Managed IT catalogs and created financial reports via Tableau dashboards as well as an interactive website for internal company use.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="education">
+        <div class="section-container">
+            <h2 class="section-title">education</h2>
+            <div class="education-grid">
+                <div class="education-card">
+                    <div class="education-header">
+                        <h3>Master of Science in Applied Data Science</h3>
+                        <p class="institution">Carnegie Mellon University</p>
+                    </div>
+                    <p class="graduation">Graduated: May 2024</p>
+                    <p class="description">Specialized in machine learning and statistical modeling.</p>
+                </div>
+
+                <div class="education-card">
+                    <div class="education-header">
+                        <h3>Bachelor of Science in Statistics and Machine Learning</h3>
+                        <p class="institution">Carnegie Mellon University</p>
+                    </div>
+                    <p class="graduation">Graduated: May 2023</p>
+                    <p class="description">Coursework in Statistics, Computer Science, Probability Theory, Regression Analysis, Natural Language Processing, Statistical Methods in Epidemiology</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="section-container">
+            <h2 class="section-title">let's connect</h2>
+            <p class="contact-subtitle">send me a message!</p>
+            <div class="contact-links">
+                <a href="mailto:marion@example.com" class="contact-card">
+                    <div class="contact-icon">💌</div>
+                    <div class="contact-info">
+                        <h3>Email</h3>
+                        <p>marion.haney@gmail.com</p>
+                    </div>
+                </a>
+                <a href="https://linkedin.com/in/marion-haney-52820" target="_blank" class="contact-card">
+                    <div class="contact-icon">⭐</div>
+                    <div class="contact-info">
+                        <h3>LinkedIn</h3>
+                        <p>linkedin.com/in/marion-haney-52820</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 Marion Haney. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
