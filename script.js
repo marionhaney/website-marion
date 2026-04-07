@@ -1,6 +1,6 @@
 // Typing Animation
 const typingTexts = [
-    "passionate about data",
+    "uncovers stories with data",
     "enjoys algorithms",
     "carnegie mellon alum",
     "a curious creative"
