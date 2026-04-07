@@ -1,0 +1,18 @@
+# netlify.toml
+[build]
+  # The base directory for the build (usually empty for static sites)
+  base = ""
+  # Directory to publish (replace 'public' if different)
+  publish = "public"
+  # Build command (for static HTML, leave empty)
+  command = ""
+
+[context.production]
+  # Deploy on every push to main
+  branch = "main"
+
+# Optional: redirects or headers
+#[[redirects]]
+#  from = "/*"
+#  to = "/index.html"
+#  status = 200
