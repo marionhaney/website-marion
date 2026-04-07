@@ -1,10 +1,7 @@
 # netlify.toml
 [build]
-  # No build command needed for plain HTML
-  command = ""
-  # Publish the root of the repo
-  publish = "."
+  command = ""       # no build needed
+  publish = "."      # root of repo
 
 [context.production]
-  # Deploy every push to main
   branch = "main"
